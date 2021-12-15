@@ -5,13 +5,13 @@ This repo is a code that **detects the transformer of the electric pole**.
 <p align="left"><img src="./demo/demo1.gif" width="45%" height="20%" title="70px" alt="memoryblock">　　<img src="./demo/demo2.gif" width="45%" height="20%" title="70px" alt="memoryblock"></p><br>
 ## Getting Started
 Download models
-* [yolov5s.pt]()
-* [yolov5x.pt]()
+* [yolov5s.pt]()<br>
+* [yolov5x.pt]()<br>
   * The pole detection model used [YOLOv5](https://github.com/ultralytics/yolov5) model.
 
 ## Constraints
-* I can't reveal the dataset.:sweat_smile:
-* We used a docker and the image we used was [YOLOv5 image](https://hub.docker.com/r/ultralytics/yolov5).
+* I can't reveal the dataset.:sweat_smile:<br>
+* We used a docker and the image we used was [YOLOv5 image](https://hub.docker.com/r/ultralytics/yolov5).<br>
 
 
 ## Demo Run
