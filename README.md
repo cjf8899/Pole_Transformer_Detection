@@ -23,4 +23,3 @@ python detect.py
 
 # Referenced. Thank you all:+1:
 detection code : https://github.com/ultralytics/yolov5<br>
-aihub dataset : https://aihub.or.kr/aidata/133<br>
