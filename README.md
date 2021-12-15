@@ -2,7 +2,7 @@
 
 This repo is an End to End code that **detection language in images and recognition Korean and English.**
 ## Demo
-<p align="left"><img src="./demo/demo1.gif" width="20%" height="20%" title="70px" alt="memoryblock">　　<img src="./demo/demo2.gif" width="20%" height="20%" title="70px" alt="memoryblock"></p><br>
+<p align="left"><img src="./demo/demo1.gif" width="45%" height="30%" title="70px" alt="memoryblock">　　<img src="./demo/demo2.gif" width="45%" height="30%" title="70px" alt="memoryblock"></p><br>
 ## Getting Started
 Download models
 * [craft_mlt_25k.pth](https://drive.google.com/open?id=1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ)
