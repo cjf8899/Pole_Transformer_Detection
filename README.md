@@ -12,7 +12,7 @@ Download models
 
 the structures would like
 ```
-root/Pole_Transformer_Detection/
+Pole_Transformer_Detection/
     -- weights/
         -- best.pt
     -- videos/input/
