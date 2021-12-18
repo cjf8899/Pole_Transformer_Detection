@@ -14,7 +14,7 @@ the structures would like
 ```
 root/Pole_Transformer_Detection/
     -- weights/
-        -- **best.pt**
+        -- best.pt
     -- videos/input/
         -- test.mp4
     -- detect.py
