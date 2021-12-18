@@ -10,6 +10,16 @@ Download models
 
 * [best.pt](https://drive.google.com/file/d/1NWroUnxU6QdilEsVh1pZOELQg7E0Y2e9/view?usp=sharing)<br>
 
+the structures would like
+```
+root/Pole_Transformer_Detection/
+    -- weights/
+        -- **best.pt**
+    -- videos/input/
+        -- test.mp4
+    -- detect.py
+    ...
+```
 
 ## Constraints
 * I can't reveal the dataset.:sweat_smile:<br>
